@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy golfing and hanging with friends. I love
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Built an end-to-end analytics pipeline in Python and Tableau to identify risk, optimize performance, and make data-driven decisions.  
+- **Project A:** Built an end-to-end machine learning pipeline in Python and Tableau to segment high-risk banking customers and enable proactive retention strategies. 
 - **Project B:** Built a regional sales performance BI solution analyzing $82.6M in gross sales and $30.8M in profit across channels, geographies, and seasons to identify where to focus and to scale back.
 - **Project C:** Built a healthcare risk and cost analysis identifying that smoking increases medical costs by 280%, segmenting patients into risk tiers to guide targeted intervention strategies.
 
@@ -39,7 +39,7 @@ When I'm not working with data, I enjoy golfing and hanging with friends. I love
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Familar-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Familar-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
