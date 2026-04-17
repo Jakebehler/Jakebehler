@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy golfing and hanging with friends.
 ## 🔭 Featured Projects 
 
 - **Bank Customer Churn Analysis:** Built an end-to-end machine learning pipeline in Python and Tableau to segment high-risk banking customers and enable proactive retention strategies. 
-- **Regional Sales Performance:** Built a regional sales performance BI solution analyzing $82.6M in gross sales and $30.8M in profit across channels, geographies, and seasons to identify where to focus and to scale back.
+- **Regional Sales Performance Analysis:** Built a regional sales performance BI solution analyzing $82.6M in gross sales and $30.8M in profit across channels, geographies, and seasons to identify where to focus and to scale back.
 - **Healthcare Risk & Cost Analysis:** Built a healthcare risk and cost analysis identifying that smoking increases medical costs by 280%, segmenting patients into risk tiers to guide targeted intervention strategies.
 
 ## 🌱 Currently Learning 
